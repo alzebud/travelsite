@@ -1,0 +1,32 @@
+{
+  "name": "travelsite",
+  "version": "1.0.0",
+  "description": "travel site practice 4 \"git-web-dev-job\" course",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alzebud/travelsite.git"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "node.js",
+    "npm",
+    "javascript",
+    "gulp"
+  ],
+  "author": "AZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alzebud/travelsite/issues"
+  },
+  "homepage": "https://github.com/alzebud/travelsite#readme"
+}
